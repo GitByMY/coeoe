@@ -30,8 +30,8 @@ apt-get -y install php openssh-server git wget
 
 ```
 git clone https://github.com/GitByMY/COEOE
-cd CamPhish
-bash camphish.sh
+cd COEOE
+bash COEOE.sh
 ```
 
 ## Change Log:
