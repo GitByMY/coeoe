@@ -29,7 +29,7 @@ apt-get -y install php openssh-server git wget
 ## Installing (Kali Linux):
 
 ```
-git clone https://github.com/techchipnet/CamPhish
+git clone https://github.com/GitByMY/COEOE
 cd CamPhish
 bash camphish.sh
 ```
